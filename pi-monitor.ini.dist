@@ -1,0 +1,16 @@
+[script]
+debug=False
+
+[irc]
+hostcolor=green
+url=https://xxxx/irc.php
+token=12345678
+
+[mqtt]
+broker = mqtt.broker.invalid
+prefix = myprefix
+username = UserName
+password = PassWord
+clientname = pimonitor
+
+[datalogger]
